@@ -2,9 +2,9 @@
 
 # Informació Personal
 
-| Nom     | Edat Ciutat
-|---------|
-| Oriol   |
+| Nom     | Edat |   Ciutat   |
+|---------|------|------------|
+| Oriol   | 17   | Vallromanes|
 
 ## Formació
 
