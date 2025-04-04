@@ -32,22 +32,6 @@
 
 - Instal·lacions informàtiques
 
-### Empresa
-
-- MS Shippers
-
-### Localitat
-
-- Granollers
-
-### Periode
-
-- 2023-2024
-
-### Tasques
-
-- Instal·lacions informàtiques
-
 # Idiomes
 
 | Idiomes  | Nivell |
